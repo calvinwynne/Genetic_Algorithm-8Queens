@@ -4,7 +4,7 @@ Solving the 8 Queens Challenge using Genetic Algorithm
 
 ![alt text](https://github.com//calvinwynne/Genetic_Algorithm-8Queens/blob/master/Images/training.gif?raw=true)
 
-The program allows the user to return a solution sythesised 
+The program allows the user to return a solution generated using the Genetic Algortihm
 The Program can display a graphical board that updates with evey move if needed.
 
 Options: 
