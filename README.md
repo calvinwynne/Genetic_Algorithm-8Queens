@@ -1,5 +1,4 @@
 # Genetic_Algorithm-8Queens
-Cognizant AIA Dasta Science Summit
 Solving the 8 Queens Challenge using Genetic Algorithm
 
 ![alt text](https://github.com//calvinwynne/Genetic_Algorithm-8Queens/blob/master/Images/training.gif?raw=true)
