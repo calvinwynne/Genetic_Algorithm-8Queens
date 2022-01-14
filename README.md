@@ -1,5 +1,5 @@
 # Genetic_Algorithm-8Queens
-Solving the 8 Queens Challenge using Genetic Algorithm
+Solving the 8 Queens Challenge using Genetic Algorithm. The eight queens puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens threaten each other; thus, a solution requires that no two queens share the same row, column, or diagonal. This project demonstrates the implementation of Genetic algorithm and its advantages over backtracking.
 
 ![alt text](https://github.com//calvinwynne/Genetic_Algorithm-8Queens/blob/master/Images/training.gif?raw=true)
 
